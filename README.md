@@ -5,7 +5,7 @@ npm install --workspaces
 npx lerna version 0.0.6 --no-push --no-git-tag-version
 ```
 
-And you will stuck at
+And you will be stuck at
 
 ```
 lerna notice cli v6.5.1
