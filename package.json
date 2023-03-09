@@ -1,9 +1,9 @@
 {
     "workspaces": [
-        "./startable",
-        "./startable-adaptor"
+        "./a",
+        "./b"
     ],
-    "name": "startable",
+    "name": "lerna-bug",
     "devDependencies": {
         "lerna": "^6.5.1"
     }

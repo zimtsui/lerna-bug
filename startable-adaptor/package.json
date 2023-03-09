@@ -1,7 +1,0 @@
-{
-  "name": "@zimtsui/startable-adaptor",
-  "version": "0.0.1",
-  "peerDependencies": {
-    "@zimtsui/startable": "^0.0.5"
-  }
-}
