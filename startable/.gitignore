@@ -1,8 +1,2 @@
 # NodeJS
 /node_modules
-
-# typedoc
-/typedoc.json
-
-# build
-/build
